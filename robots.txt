@@ -1,0 +1,19 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Host
+Host: firedetectors.de
+
+# Sitemap Location
+Sitemap: https://firedetectors.de/sitemap.xml
+
+# Crawl-delay for aggressive bots to save resources
+User-agent: MJ12bot
+Crawl-delay: 5
+
+User-agent: AhrefsBot
+Crawl-delay: 5
+
+User-agent: DotBot
+Crawl-delay: 5
